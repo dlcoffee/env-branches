@@ -1,3 +1,3 @@
 # env branches
 
-this is just for testing env branches
+this is just for testing env branches for deployment
